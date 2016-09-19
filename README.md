@@ -25,8 +25,7 @@ As a result I am capable of applying SOLID and DRY principles, in a TDD fashion(
 
 #### Multipotentiality
 
-
-
+Having finished Makers Academy bootcamp does not only mean that as a graduate I've experience working with particular technologies. The most important ability that I've managed to enhance is multipotentiality, or just adjustability. Makers did great job in showing students how different technologies work together and allowed me to see a pattern in every language, framework or technology that can be pragmatically used, as a very efficient tool to learn and understand a new technology. 
 
 #### Communication
 
