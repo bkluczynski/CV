@@ -23,16 +23,15 @@ As a result I am capable of applying SOLID and DRY principles, in a TDD fashion(
 |[ThermostatJS](https://github.com/bkluczynski/thermostat) | 2 | An extendable thermostat JavaScript application. | JavaScript, jQuery, HTML, CSS |
 |[Social_event_reminder](https://github.com/bkluczynski/social_event_reminder) | 5 | Makers Academy mid project. An app to connect with your family through sending and receiving reminders regarding an important family event. | Rails, Twilio API, CSS, HTML  |
 
-#### Teamwork
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 #### Multipotentiality
+
+
+
+
+#### Communication
+
+
+
 
 
 
