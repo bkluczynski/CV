@@ -1,3 +1,6 @@
+[kluczynskib@gmail.com]
+
+
 ## Bart Kluczynski
 
 Technology driven stoic, never ending enthusiast of working code and always smiling minimalist. Strong believer in the limitless freedom of making a 180 degrees change in a career's path at any stage of life. Social blogger, freelance journalist and Helpdesk analyst striving to be a palpable example of such change.
