@@ -1,4 +1,4 @@
-[kluczynskib@gmail.com]
+kluczynskib@gmail.com
 
 
 ## Bart Kluczynski
