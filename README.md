@@ -21,7 +21,7 @@ As a result I am capable of applying SOLID and DRY principles, in a TDD fashion(
 | Project | Team Size | Description | Technologies |
 |---------|:---------:|-------------|--------------|
 |[Blank_canvas](https://github.com/bkluczynski/blank_canvas) | 5 | Makers Academy final project. An app allowing a person to upload a picture, extract dominant colours and apply them to blank and white SVG drawing (drag and drop) to finally be able to save the canvas as an image file.|Ruby on Rails, JavaScript, Interact.js, CSS, HTML, SVG  |
-|[ThermostatJS](https://github.com/bkluczynski/thermostat) | 2 | An extendable thermostat JavaScript application. | JavaScript, jQuery, HTML, CSS |
+|[Chitter](https://github.com/bkluczynski/chitter-challenge) | 1 | A Twitter clone | Sinatra, Ruby, HTML, CSS |
 |[Social_event_reminder](https://github.com/bkluczynski/social_event_reminder) | 5 | Makers Academy mid project. An app to connect with your family through sending and receiving reminders regarding an important family event. | Rails, Twilio API, CSS, HTML  |
 
 #### Multipotentiality
