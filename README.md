@@ -1,5 +1,3 @@
-kluczynskib@gmail.com
-
 
 ## Bart Kluczynski
 
