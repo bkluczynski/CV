@@ -54,7 +54,8 @@ Makers Academy is a highly selective 12 week full-time program (preceded by a fo
 
 ## Experience
 
-**HSBC** Software developer (2016-2017)
+**HSBC** (2016-2017)
+*Software developer*
 **Truphone** (2014 to 2016)    
 *Helpdesk analyst/Technical support*  
 **Polish Express** (2013 to 2014)   
