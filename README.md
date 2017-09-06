@@ -7,6 +7,14 @@ Looking forward to start pair-programming with you soon as a Junior Developer.
 
 ## Skills, anyone?
 
+#### Latest adventure
+
+Working for HSBC, sounds great, doesn’t it? One might think it squeaks a bit when you think of a place where the latest technology should be racing with a pace of daily releases. I was lucky enough to be brought onboard with fellow Makers Academy graduates to take part in one of the latest experiment made by Nic Ferrier, who is the main force behind HSBC’s digital transformation into agile loaded clusters of software crafters. So there I was, a junior programmer hoping for the best. 
+
+In a matter of weeks, I’ve learned what agile means in a huge, international corporation. Every day started with a stand up to liaise with nominated business stakeholders to ensure business requirements are fully understood and before commencing design and development. Every two weeks we held agile retrospective at the end of an iteration of a product we’ve been building. The products I’ve been developing varied, but they were mainly foreign exchange related microservices and integrations with existing code base written in Clojure, Javascript Angular and some legacy Java allowing customers to make corporate payments using their FX products. 
+
+One of our goals as a team was to gain trust among each other to feel confident enough to share our code on a regular basis and ultimately to start delivering a more reusable software of a higher quality. To achieve that we were using pair/mob programming on a daily basis.
+
 #### Software development
 
 One of the most intensive and demanding coding bootcamp, they call themselves 'Makers Academy', was a great place to get your hands dirty with "don't ever forget about testing unless you spike", "pair-programming is fun", "code has to be clean, otherwise stinks", "don't repeat yourself, even when you're tempted" and "object-oriented programming versus functional programming".
